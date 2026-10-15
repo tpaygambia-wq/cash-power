@@ -1,0 +1,6 @@
+{
+  "name": "Gambia Cash Power",
+  "description": "PRO Edition: Buy NAWEC prepaid electricity Cash Power tokens in The Gambia with real-time 11-digit validation, grid telemetry, and Wave/QMoney.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
